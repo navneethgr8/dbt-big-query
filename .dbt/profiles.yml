@@ -1,0 +1,4 @@
+target:
+  my_target:
+    schema: datasetdemodbt
+    database: my-project-poc-381609
